@@ -28,8 +28,11 @@
   "author": "",
   "homepage": "",
   "license": "MIT",
-  "repository": "",
+  "repository": "git://github.com/a-rattana/fuzzy-router.git",
   "keywords": [
     "react-component"
-  ]
+  ],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
