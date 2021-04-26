@@ -1,5 +1,5 @@
 {
-  "name": "fuze-router",
+  "name": "@a-rattana/fuzzy-router",
   "version": "0.0.1",
   "description": "fuze-router React component",
   "main": "lib/index.js",
