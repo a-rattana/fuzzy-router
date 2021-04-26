@@ -25,9 +25,10 @@
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.2.0"
   },
-  "author": "",
-  "homepage": "",
+  "author": "a-rattana",
+  "homepage": "/",
   "license": "MIT",
+  "URL": "github.com/a-rattana/fuzzy-router",
   "repository": "git://github.com/a-rattana/fuzzy-router.git",
   "keywords": [
     "react-component"
